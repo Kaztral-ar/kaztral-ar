@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <em>Learning. Building. Experimenting. — one project at a time.</em>
+  <em>Learning. Building. Experimenting.</em>
 </p>
 
 ---
