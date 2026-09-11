@@ -53,7 +53,7 @@ I enjoy exploring open-source projects, contributing where I can, and learning f
 - 🧪 Exploring [sir-lancebot](https://github.com/Kaztral-ar/sir-lancebot) to learn open-source contribution workflows
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaztral-ar&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Kaztral's GitHub Contribution Graph" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaztral-ar&theme=github_dark" alt="Kaztral's GitHub Contribution Graph" />
 </p>
 
 ---
