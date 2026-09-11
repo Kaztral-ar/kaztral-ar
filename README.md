@@ -92,6 +92,14 @@ I enjoy exploring open-source projects, contributing where I can, and learning f
   </a>
 </p>
 
+---
+
+<p align="center">
+  <a href="https://buymeacoffee.com/k4tral">
+    <img src="https://img.shields.io/badge/☕_Support_Me-D97706?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <sub>✦ Build · Learn · Iterate · Repeat ✦</sub>
 </p>
