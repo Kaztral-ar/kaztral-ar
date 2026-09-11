@@ -44,7 +44,7 @@ I'm a BDS student who enjoys building things with code in my free time.
 
 ---
 
-## 🤝 Open Source
+## ✦ Open Source
 
 I enjoy exploring open-source projects, contributing where I can, and learning from real-world codebases.
 
@@ -58,7 +58,7 @@ I enjoy exploring open-source projects, contributing where I can, and learning f
 
 ---
 
-## 🛠️ Tech Stack
+## ◈ Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -68,7 +68,7 @@ I enjoy exploring open-source projects, contributing where I can, and learning f
 
 ---
 
-## 📊 GitHub Activity
+## ⌁ GitHub Activity
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kaztral-ar&show_icons=true&theme=vue-dark&hide_border=true" />
