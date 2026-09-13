@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <strong>Portfolio</strong> · <a href="https://portfolio-kaztral.vercel.app">↗ Visit</a>
+  <strong>Portfolio</strong> · <a href="https://portfolio-kaztral.vercel.app">↗ kaztral</a>
 </p>
