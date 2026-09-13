@@ -3,7 +3,5 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-kaztral.vercel.app">
-    <img src="https://img.shields.io/badge/%E2%86%97%20PORTFOLIO-D97706?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
+  <a href="https://portfolio-kaztral.vercel.app">portfolio-kaztral.vercel.app</a>
 </p>
