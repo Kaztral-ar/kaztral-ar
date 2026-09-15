@@ -5,3 +5,12 @@
 <p align="center">
   <strong>Portfolio</strong> · <a href="https://portfolio-kaztral.vercel.app">↗ kaztral</a>
 </p>
+
+<div align="center">
+
+<marquee behavior="scroll" direction="left" scrollamount="6" loop="infinite">
+  ₿ <strong>BTC</strong> · ◆ <strong>ETH</strong> · Ð <strong>DOGE</strong> · ₮ <strong>USDT</strong> · ◎ <strong>SOL</strong> · ◈ <strong>BNB</strong> · ₳ <strong>ADA</strong> · ● <strong>XRP</strong> · 🪙 <strong>DOT</strong> · Ξ <strong>AVAX</strong> ·
+  ₿ <strong>BTC</strong> · ◆ <strong>ETH</strong> · Ð <strong>DOGE</strong> · ₮ <strong>USDT</strong> · ◎ <strong>SOL</strong> · ◈ <strong>BNB</strong> · ₳ <strong>ADA</strong> · ● <strong>XRP</strong> · 🪙 <strong>DOT</strong> · Ξ <strong>AVAX</strong> ·
+</marquee>
+
+</div>
