@@ -17,7 +17,7 @@
 
 ### About
 
-I'm Gokul — a **BDS student by day and self-taught developer by night**. I enjoy turning ideas into practical tools, apps, bots, and experiments.
+I'm Gokul — a **BDS student and self-taught developer**. I enjoy turning ideas into practical tools, apps, bots, and experiments.
 
 - 🦷 Studying Bachelor of Dental Surgery
 - 💻 Building projects and learning by doing
