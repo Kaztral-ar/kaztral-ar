@@ -17,16 +17,6 @@ I'm Gokul, a BDS student and developer.
 
 **Bachelor of Dental Surgery (BDS)**
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Kaztral-ar&show_icons=true&hide_border=true&hide_title=false&bg_color=ffffff&title_color=24292f&text_color=57606a&icon_color=0969da&rank_icon=github" height="165" alt="GitHub account statistics" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaztral-ar&bg_color=ffffff&color=24292f&line=57606a&point=0969da&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-
-</div>
-
 ---
 
 <div align="center">
