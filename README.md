@@ -11,11 +11,7 @@
 
 ## About
 
-I'm Gokul, a BDS student and developer.
-
-## Education
-
-**Bachelor of Dental Surgery (BDS)**
+I'm Gokul, a developer pursuing a **Bachelor of Dental Surgery (BDS)**.
 
 ---
 
