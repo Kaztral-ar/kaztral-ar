@@ -15,12 +15,6 @@ I'm Gokul, a developer pursuing a **Bachelor of Dental Surgery (BDS)**.
 
 ---
 
-<div align="center">
-
-[Portfolio](https://kaztral.vercel.app) · [GitHub](https://github.com/Kaztral-ar)
-
-</div>
-
 
 ## ☕ Support
 
